@@ -2,17 +2,14 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarraj11&label=Profile%20views&color=0e75b6&style=flat" alt="samarraj11" /> </p>
-
-<p align="left"> <a href="https://twitter.com/legend_bhaiya_" target="blank"><img src="https://img.shields.io/twitter/follow/legend_bhaiya_?logo=twitter&style=for-the-badge" alt="legend_bhaiya_" /></a> </p>
 
 - 🌱 I’m currently learning **various frame works in Python as well as Java**
 
 - 👯 I’m looking to collaborate on **Python and Java based project. If you have something in mind, do email me.**
 
-- 📫 How to reach me **samarraj1199@gma⁸il.com**
+- 📫 How to reach me **samarraj1199@gmail.com**
+<img src="C:\Users\rahul\OneDrive\Pictures\110736-58664320-1db9-4f9a-a14e-3700a1d455d4">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarraj11&show_icons=true&locale=en&layout=compact" alt="samarraj11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarraj11&" alt="samarraj11" /></p>
+
