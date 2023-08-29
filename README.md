@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते 👋, I'm Samar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">
 
 
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Python and Java based project. If you have something in mind, do email me.**
 
-- 📫 How to reach me **samarraj1199@gmail.com**
+- 📫 How to reach me **samarraj1199@gma⁸il.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
