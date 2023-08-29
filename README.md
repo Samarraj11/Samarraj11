@@ -1,6 +1,8 @@
 <h1 align="center"> नमस्ते 👋, I'm Samar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Samarraj11/Samarraj11/assets/137534422/a59ad6ee-4570-4a91-825d-66c268353c4f)">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarraj11&label=Profile%20views&color=0e75b6&style=flat" alt="samarraj11" /> </p>
 
