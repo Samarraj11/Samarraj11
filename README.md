@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarraj11&label=Profile%20views&color=0e75b6&style=flat" alt="samarraj11" /> </p>
 
-- 🌱 I’m currently learning **various frame works in Python as well as Java**
+- I’m currently learning **various frame works in Python as well as Java**
 
-- 👯 I’m looking to collaborate on **Python and Java based project. If you have something in mind, do email me.**
+- I’m looking to collaborate on **Python and Java based project. If you have something in mind, do email me.**
 
 - 📫 How to reach me **samarraj1199@gmail.com**
 <img src="C:\Users\rahul\OneDrive\Pictures\110736-58664320-1db9-4f9a-a14e-3700a1d455d4">
