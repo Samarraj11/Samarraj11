@@ -7,6 +7,8 @@
 
 - I’m looking to collaborate on **Python and Java based project. If you have something in mind, do email me.**
 
+- We can connect to play some games of Chess.
+
 - 📫 How to reach me **samarraj1199@gmail.com**
 <img src="C:\Users\rahul\OneDrive\Pictures\110736-58664320-1db9-4f9a-a14e-3700a1d455d4">
 
