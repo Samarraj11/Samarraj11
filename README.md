@@ -5,7 +5,7 @@
 
 - I’m currently learning **various frame works in Python as well as Java**
 
-- I’m looking to collaborate on **Python and Java based project. If you have something in mind, do email me.**
+- I’m looking to collaborate on **Python and JavaScript based project. If you have something in mind, do email me.**
 
 - We can connect to play some games of Chess.
 
